@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pranayzv/AntdLogin/static/css/main.9b102455.css",
-    "main.js": "/pranayzv/AntdLogin/static/js/main.2cf93ea6.js",
-    "static/js/787.b707c01a.chunk.js": "/pranayzv/AntdLogin/static/js/787.b707c01a.chunk.js",
-    "static/media/logo.svg": "/pranayzv/AntdLogin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/pranayzv/AntdLogin/index.html",
-    "main.9b102455.css.map": "/pranayzv/AntdLogin/static/css/main.9b102455.css.map",
-    "main.2cf93ea6.js.map": "/pranayzv/AntdLogin/static/js/main.2cf93ea6.js.map",
-    "787.b707c01a.chunk.js.map": "/pranayzv/AntdLogin/static/js/787.b707c01a.chunk.js.map"
+    "main.css": "/AntdLogin/static/css/main.e3fa9b95.css",
+    "main.js": "/AntdLogin/static/js/main.f3440bf5.js",
+    "static/js/787.b707c01a.chunk.js": "/AntdLogin/static/js/787.b707c01a.chunk.js",
+    "static/media/logo.svg": "/AntdLogin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AntdLogin/index.html",
+    "main.e3fa9b95.css.map": "/AntdLogin/static/css/main.e3fa9b95.css.map",
+    "main.f3440bf5.js.map": "/AntdLogin/static/js/main.f3440bf5.js.map",
+    "787.b707c01a.chunk.js.map": "/AntdLogin/static/js/787.b707c01a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b102455.css",
-    "static/js/main.2cf93ea6.js"
+    "static/css/main.e3fa9b95.css",
+    "static/js/main.f3440bf5.js"
   ]
 }
